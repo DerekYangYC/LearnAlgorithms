@@ -1,4 +1,4 @@
-package io.github.derekyangyc.leetcode;
+package io.github.derekyangyc.leetcode.coordinate;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
